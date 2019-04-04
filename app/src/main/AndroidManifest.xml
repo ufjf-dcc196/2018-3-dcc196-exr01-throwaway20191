@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ExternoActivity" />
+        <activity android:name=".AlunoActivity" />
+        <activity android:name=".PessoaActivity" />
+        <activity android:name=".ServidorActivity" />
     </application>
 
 </manifest>
